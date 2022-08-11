@@ -1,0 +1,15 @@
+{
+  "name": "temaku",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "temaku nihhh",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/linacsaon338/temaku",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
